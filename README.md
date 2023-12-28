@@ -1,0 +1,2 @@
+# NewsBrevity
+Automated Summarization Tool
