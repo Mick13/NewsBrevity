@@ -1,2 +1,2 @@
 # NewsBrevity
-Automated Summarization Tool
+Automated Summarization Tool - not fully complete (01/24)
